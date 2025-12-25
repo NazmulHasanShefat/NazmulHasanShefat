@@ -1,5 +1,4 @@
-### Hi there 👋
-##### my name is Nazmul Hasan
+### Hi there 👋, my name is Nazmul Hasan
 #### I am Frontend Web Developer
 ![I am Frontend Web Developer](./githubBanarimage.png)
 
