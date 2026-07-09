@@ -11,8 +11,8 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on React, NextJS, Express, Mongodb
 - 🌱 I’m currently learning JavaScript and other javaScript librarys
-- 👯 You can find me [Linkedin](https://www.linkedin.com/in/nazmuldeveloper)
-- 🤔 My portfolio [NazmulHasan](https://nazmul-hasan-rho.vercel.app)
+- 🔗 You can find me [Linkedin](https://www.linkedin.com/in/nazmuldeveloper)
+- 🌐 My portfolio [NazmulHasan](https://nazmul-hasan-rho.vercel.app)
 - 💬 You can send me any message by mdnazmulhasan0879@gmail.com
 
 
